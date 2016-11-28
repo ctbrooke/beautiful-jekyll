@@ -4,7 +4,10 @@ title: About me
 subtitle: Who I am and what I do
 ---
 
-Currently, I am a graduate student at Texas A&M in the second year of my Master's program. My research interests are focused on fire ecology, and the effects of fire on ecosystems in the Great Plains of the US. My current projects include using habitat modelling to predict wildland fires, studying the effects of climate change on wildland fires in the Southern Great Plains, and building a dendrichronological record for Ashe Juniper in the Texas Hill country. 
+
+
+I am a graduate student at Texas A&M in the second year of my Master’s program. I work in Dr. Michelle Lawing's lab studying fire ecology, and the effects of fire on ecosystems in the Great Plains of the US. My current projects include using habitat modelling to predict wildland fires, studying the effects of climate change on wildland fires in the Southern Great Plains, and building a dendrichronological record for Ashe Juniper in the Texas Hill country. Outside of academia, I am an avid outdoorsman and spend as much time as I can working on my family's ranch in central Texas, and reading. 
+
 
 
 ## My History
