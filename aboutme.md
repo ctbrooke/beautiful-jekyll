@@ -37,5 +37,8 @@ Outside of academia, I help work on and manage a family ranch in central Texas. 
    Prescribed burning is an increasing important tool in a land manager's prescription for a property. Whether it be improving grazinglands for cattle, controlling woody vegetation, or opening up the understory of forests, prescribed burning is a versatile application of disturbance ecology for landowner use. I am interested in how we can best develop this tool to achieve landowner goals and objectives.
 
 	
+### CV
 
+
+![My CV](https:\\ctbrooke.github.io/img/ChaseT.Brooke-CurriculumVitae v1.43.docx   "My CV")
 
