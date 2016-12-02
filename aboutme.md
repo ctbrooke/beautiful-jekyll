@@ -40,5 +40,5 @@ Outside of academia, I help work on and manage a family ranch in central Texas. 
 ### CV
 
 
-![My CV](https:\\ctbrooke.github.io/img/ChaseT.Brooke-CurriculumVitae-v1.43.docx   "My CV")
+[My CV](https:\\ctbrooke.github.io/img/ChaseT.Brooke-CurriculumVitae-v1.43.pdf   "My CV")
 
