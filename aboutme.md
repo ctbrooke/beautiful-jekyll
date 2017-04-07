@@ -6,16 +6,14 @@ subtitle: Who I am and what I do
 
 ![In the field at Big Bend National Park](https://ctbrooke.github.io/img/field.png  "In the field at Big Bend National Park")
 
-I am a graduate student at Texas A&M in the second year of my Master’s program. I work in Dr. Michelle Lawing's lab studying fire ecology, and the effects of fire on ecosystems in the Great Plains of the US. My current projects include using habitat modelling to predict wildland fires, studying the effects of climate change on wildland fires in the Southern Great Plains, and building a dendrichronological record for Ashe Juniper in the Texas Hill country. Outside of academia, I am an avid outdoorsman and spend as much time as I can working on my family's ranch in central Texas, and reading. 
-
+I am a graduate student at Texas A&M in the second year of my Master’s program. I work in Dr. Michelle Lawing's lab studying the use of Species Deistribution Models for predicting fire occurrences across the state of Texas. My current projects include using habitat modelling to predict wildland fires, studying the effects of climate change on wildland fires in the Southern Great Plains, and the use of prescribed fire to manage Ashe Juniper in the Texas Hill country. 
 
 
 ## My History
 
-I graduated with a BS in Spatial Science in 2014 from Texas A&M University. My academic background is based promarily on GIS and Remote Sensing, with parallel interests in land management and forestry. 
+I am currently a second year M.S. Student in Ecosystem Science & Management at Texas A&M University, where I also graduated with a BS in Spatial Science in 2014. My academic background is based promarily on GIS and Remote Sensing, with parallel interests in land management and forestry. 
 
-Outside of academia, I help work on and manage a family ranch in central Texas. Recently I have also been helping work on prescribed burns with the Hamilton County chapter of the Edwards Plateau Prescribed Burn Association. 
-
+I have currently accepted a PhD position in the Department of Forestry at Michigan State University starting in September 2017. 
 
 ## My Research
 
@@ -25,7 +23,7 @@ Outside of academia, I help work on and manage a family ranch in central Texas. 
 
 ### Using Species Distribution Models to Predict Wildland Fire Occurrence
 
-   One of my primariy current research interests is in the use of Specides Distribution Models (SDMs) to predict wildland fire occurrence. Originally built to predict habitats, I use it to better understand how climate, geography, ecology and humans impact wildland fire occurrence. By improving our understanding of landscape characteristics which are indicative of wildland fire occurrence, we can better create predictive models to anticipate fire danger across wide areas.
+   One of my current research interests is in the use of Specides Distribution Models (SDMs) to predict wildland fire occurrence. Originally built to predict habitats, I use it to better understand how climate, geography, ecology and humans impact wildland fire occurrence. By improving our understanding of landscape characteristics which are indicative of wildland fire occurrence, we can better create predictive models to anticipate fire danger across wide areas.
 
 ### Using Plant Phytoliths to Characterize Paleofires
 
