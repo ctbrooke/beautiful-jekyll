@@ -38,5 +38,5 @@ I have currently accepted a PhD position in the Department of Forestry at Michig
 ### CV
 
 
-[My CV](https:\\ctbrooke.github.io\img\ChaseT.Brooke-CurriculumVitae-v1.43.pdf   "My CV")
+[My CV](https:\\ctbrooke.github.io\img\ChaseT.Brooke-CurriculumVitae-v1.5.pdf   "My CV")
 
