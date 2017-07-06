@@ -6,14 +6,18 @@ subtitle: Who I am and what I do
 
 ![In the field at Big Bend National Park](https://ctbrooke.github.io/img/field.png  "In the field at Big Bend National Park")
 
-I am a graduate student at Texas A&M in the second year of my Master’s program. I work in Dr. Michelle Lawing's lab studying the use of Species Deistribution Models for predicting fire occurrences across the state of Texas. My current projects include using habitat modelling to predict wildland fires, studying the effects of climate change on wildland fires in the Southern Great Plains, and the use of prescribed fire to manage Ashe Juniper in the Texas Hill country. 
+I am a graduate student at Michigan State University working on my PhD in Forestry and Ecology Evolutionary Biology & Behavior. I work in Dr. Jessica Miesel's lab fire effects on soil chemistry. My current projects include the effects of time on fire ash spectroscopy, using habitat modelling to predict wildland fires, studying the effects of climate change on wildland fires in the Southern Great Plains, and the use of prescribed fire to manage Ashe Juniper in the Texas Hill country. 
 
 
-## My History
+## My Education
+(Current)	PhD. Forestry; Ecology, Evolutionary Biology & Behavior - Michigan State University
+	-Advisor: Dr. Jessica Miesel
 
-I am currently a second year M.S. Student in Ecosystem Science & Management at Texas A&M University, where I also graduated with a BS in Spatial Science in 2014. My academic background is based promarily on GIS and Remote Sensing, with parallel interests in land management and forestry. 
-
-I have currently accepted a PhD position in the Department of Forestry at Michigan State University starting in September 2017. 
+2017		M.S. Ecosystem Science & Management - Texas A&M University
+	-Thesis: "Identifying the environmental controls on wildland fire in the South-Central United States"
+	-Advisor: Dr. Michelle Lawing
+	
+2014		B.S. Spatial Science - Texas A&M University
 
 ## My Research
 
