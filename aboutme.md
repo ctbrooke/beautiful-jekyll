@@ -6,8 +6,7 @@ subtitle: Who I am and what I do
 
 ![In the field at Big Bend National Park](https://ctbrooke.github.io/img/field.png  "In the field at Big Bend National Park")
 
-I am a graduate student at Michigan State University working on my PhD in Forestry and Ecology Evolutionary Biology & Behavior. I work in Dr. Jessica Miesel's lab fire effects on soil chemistry. My current projects include the effects of time on fire ash spectroscopy, using habitat modelling to predict wildland fires, studying the effects of climate change on wildland fires in the Southern Great Plains, and the use of prescribed fire to manage Ashe Juniper in the Texas Hill country. 
-
+I am a graduate student at Michigan State University working on my PhD in Forestry and Ecology Evolutionary Biology & Behavior. I work in Dr. Jessica Miesel's  Fire and Ecosystem Ecology lab studying fire effects on soil chemistry. My current projects are using plant phytoliths as historical records of fire occurrence. 
 
 ## My Education
 (Current)	PhD. Forestry; Ecology, Evolutionary Biology & Behavior - Michigan State University
